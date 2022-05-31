@@ -2,6 +2,8 @@ import numpy as np
 import cv2
 import time
 
+# adapt to take an mp4 input & detect yellow lines
+
 cap = cv2.VideoCapture(1)
 c1 = 0
 linecolor = (100, 215, 255)
