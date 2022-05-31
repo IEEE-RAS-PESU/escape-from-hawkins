@@ -2,3 +2,5 @@ Let's say you ran into a Flayed. Now, unless the Mind Flayer explicitly gives an
 Simulate this system by writing a face tracking algorithm with an accompanying arduino script to control two motors mounted to the camera (one per dimension of movement).
 The camera must move in such a way that the camera tracks the face as it moves (as seen in the test video).
 Create a tinkercad project to simulate the physical build.
+
+Reference : https://www.hackster.io/shubhamsantosh99/face-tracker-using-opencv-and-arduino-55412e
