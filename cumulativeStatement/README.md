@@ -3,4 +3,6 @@ Being unfamiliar with the way we've constructed out surroundings and having a to
 
 Write an algorithm to help a Flayed human see and detect when a pedestrian is crossing a lane and when he's on the edge.
 
+Files to be shared with the participants : **N/A, Open statement**
+
 Test Video : https://drive.google.com/file/d/1qh_1-gL08i_Ke7DeKO9vG-aFLqwh1U2u/view?usp=sharing
