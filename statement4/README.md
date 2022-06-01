@@ -3,4 +3,8 @@ Simulate this system by writing a face tracking algorithm with an accompanying a
 The camera must move in such a way that the camera tracks the face as it moves (as seen in the test video).
 Create a tinkercad project to simulate the physical build.
 
+Files to be shared with the participants :
+- face-demographics-walking.mp4 
+- haarcascade_frontalface_default.xml 
+
 Reference : https://www.hackster.io/shubhamsantosh99/face-tracker-using-opencv-and-arduino-55412e
