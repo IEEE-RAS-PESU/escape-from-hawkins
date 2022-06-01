@@ -8,4 +8,4 @@ Refer to **problemStatements.pdf** for a general overview of the statements as w
 
 Each statement directory's README.md will indicate which files should be shared with the participants.
 
-**NO FILE TITLED `main.py` ARE TO BE SHARED WITH THE PARTICIPANTS. THEY ARE THE EXPECTED ANSWERS TO THE PROBLEM STATEMENTS AND HAVE BEEN COMMITTED FOR EVALUATION PURPOSES**
+**NO FILE TITLED `main.py` IS TO BE SHARED WITH THE PARTICIPANTS. THEY ARE THE EXPECTED ANSWERS TO THE PROBLEM STATEMENTS AND HAVE BEEN COMMITTED FOR EVALUATION PURPOSES**
