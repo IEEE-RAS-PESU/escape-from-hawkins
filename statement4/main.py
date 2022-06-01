@@ -1,6 +1,3 @@
-#Face tracker using OpenCV and Arduino
-#by Shubham Santosh
-
 import cv2
 import serial,time
 face_cascade= cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
