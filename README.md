@@ -47,7 +47,7 @@ The submission page, webhooks and backend interfaces were designed by <@Rohan> t
 These tools have been sufficiently well tested and we're confident that you won't run into any errors, but on the off chance that you need any technical support, contact @Rohan.
 
 *This hunt is not going to be easy. It's more of a survival contest than a race to win.*
-Although, we will be very impressed if you complete all five problem statements before the *deadline tomorrow - Sunday, 12th of June 2022 @ 1800 HRS.* 
+Although, we will be very impressed if you complete all five problem statements before the *deadline tomorrow - Sunday, 12th of June 2022 @ 2359 HRS.* 
 
 You may begin now. May the fittest team survive to the end.
 
