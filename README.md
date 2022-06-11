@@ -66,4 +66,9 @@ Codes to access the corresponding problem statements :
 3. Susndhdusie
 4. 7m3hduru3e
 5. 83bbeuri3lss
+  
+Documentation : https://hackmd.io/@Y1bKKDhaRoeTMz_bW9jEOg/HkpYw5sdq
+  
+----------------------------------------------------------------------------------------------
+
 
